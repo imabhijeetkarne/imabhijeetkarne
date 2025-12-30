@@ -1,7 +1,7 @@
 # 💫 About Me:
 Skilled in JavaScript, Node.js, Express, React.js, MongoDB, SQL, Java and Object Oriented Programming (OOP).<br>
 Experienced in building full-stack web applications, developing RESTful APIs, and managing databases.<br> Skilled in
-designing and implementing scalable solutions for real-world projects<br> Learning Ai/ML
+designing and implementing scalable solutions for real-world projects<br> Learning AI/ML
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imabhijeetkarne) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhijeet Karne) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijeetkarne47@gmail.com) 
