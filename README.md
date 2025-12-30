@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a fresher<br>i'm looking for a job<br>i'm currently learning AI/ML<br>
+Skilled in JavaScript, Node.js, Express, React.js, MongoDB, SQL, Java and Object Oriented Programming (OOP).<br>
+Experienced in building full-stack web applications, developing RESTful APIs, and managing databases.<br> Skilled in
+designing and implementing scalable solutions for real-world projects<br>Learning AI/ML
 
 
 ## 🌐 Socials:
